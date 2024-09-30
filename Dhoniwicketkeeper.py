@@ -12,3 +12,4 @@ For Banerjee's question "Will you be a wicketkeeper?" Dhoni's confident reply wa
 '''
 p=input("Banerjee's Question:\n")
 r=input("Dhoni's Reply:\n")
+print("For Banerjee's Question \"{}\" Dhoni's Confident reply was \"{}\"".format(p,r))
